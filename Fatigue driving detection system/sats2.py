@@ -8,6 +8,7 @@
 from pyecharts.charts import Bar, Page, Pie
 from pyecharts.charts import Line3D
 from pyecharts.charts import Bar, Line, Scatter
+from pyecharts.faker import Faker
 # pyinstaller -F run.py --distpath . --add-data /usr/local/lib/python3.8/site-packages/pyecharts/datasets:pyecharts/datasets
 # --add-data=/usr/local/lib/python3.8/site-packages/pyecharts/render/templates:pyecharts/render/templates
 
