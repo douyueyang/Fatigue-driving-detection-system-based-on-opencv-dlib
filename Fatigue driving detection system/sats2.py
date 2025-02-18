@@ -5,8 +5,9 @@
 # from pyecharts import options as opts
 # from pyecharts.charts import Line3D
 # from pyecharts.faker import Faker
-from pyecharts.charts import Bar, Liquid, Page, Pie
-from pyecharts import options as opts
+from pyecharts.charts import Bar, Page, Pie
+from pyecharts.charts import Line3D
+from pyecharts.charts import Bar, Line, Scatter
 # pyinstaller -F run.py --distpath . --add-data /usr/local/lib/python3.8/site-packages/pyecharts/datasets:pyecharts/datasets
 # --add-data=/usr/local/lib/python3.8/site-packages/pyecharts/render/templates:pyecharts/render/templates
 
