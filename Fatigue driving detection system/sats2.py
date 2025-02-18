@@ -1,6 +1,6 @@
 
 # import math
-from pyecharts.globals import ThemeType
+# from pyecharts.globals import ThemeType
 # from pyecharts.charts import Bar, Line, Scatter
 # from pyecharts import options as opts
 # from pyecharts.charts import Line3D
